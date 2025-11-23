@@ -1,0 +1,27 @@
+{
+  "pages": {
+    "/(public)/home/page": [
+      "static/chunks/73d67_next_dist_3169a853._.js",
+      "static/chunks/Documents_CourseDemy_front-end_src_app_favicon_ico_mjs_691614a3._.js",
+      "static/chunks/Documents_CourseDemy_front-end_src_app_globals_c279bd24.css",
+      "static/chunks/73d67_929b272c._.js",
+      "static/chunks/Documents_CourseDemy_front-end_src_3a497c63._.js",
+      "static/chunks/Documents_CourseDemy_front-end_src_app_layout_tsx_a0ec5de9._.js",
+      "static/chunks/73d67_next_dist_client_components_builtin_global-error_534f38fb.js",
+      "static/chunks/Documents_CourseDemy_front-end_src_39d52b24._.js",
+      "static/chunks/73d67_a6ac8405._.js",
+      "static/chunks/Documents_CourseDemy_front-end_src_app_(public)_layout_tsx_534f38fb._.js",
+      "static/chunks/Documents_CourseDemy_front-end_1b766ec0._.js",
+      "static/chunks/Documents_CourseDemy_front-end_src_app_(public)_home_page_tsx_a849b243._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_f1290d53._.js",
+      "static/chunks/73d67_next_dist_compiled_react-dom_3dc00d44._.js",
+      "static/chunks/73d67_next_dist_compiled_next-devtools_index_9457a9f7.js",
+      "static/chunks/73d67_next_dist_compiled_7eb97655._.js",
+      "static/chunks/73d67_next_dist_client_4fde4ec0._.js",
+      "static/chunks/73d67_next_dist_daedd825._.js",
+      "static/chunks/73d67_@swc_helpers_cjs_edf3264c._.js",
+      "static/chunks/Documents_CourseDemy_front-end_a0ff3932._.js",
+      "static/chunks/turbopack-Documents_CourseDemy_front-end_1324bb12._.js"
+    ]
+  }
+}

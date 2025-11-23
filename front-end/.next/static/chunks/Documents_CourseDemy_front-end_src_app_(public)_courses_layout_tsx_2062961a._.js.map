@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///Users/hoangvietanh/Documents/CourseDemy/front-end/src/app/%28public%29/courses/layout.tsx"],"sourcesContent":["\"use client\";\n\nimport { ReactNode } from \"react\";\n\nexport default function layout({ children }: { children: ReactNode }) {\n  return (\n    <div className=\"py-[var(--paddingBody)] min-h-[calc(100vh)]\">\n      {children}\n    </div>\n  );\n}\n"],"names":[],"mappings":";;;;;AAAA;;AAIe,SAAS,OAAO,KAAqC;QAArC,EAAE,QAAQ,EAA2B,GAArC;IAC7B,qBACE,wOAAC;QAAI,WAAU;kBACZ;;;;;;AAGP","debugId":null}}]
+}

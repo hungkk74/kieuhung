@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///Users/hoangvietanh/Documents/CourseDemy/front-end/src/app/%28dashboard%29/payment/checkout/layout.tsx"],"sourcesContent":["\"use client\";\n\nimport React from \"react\";\nimport Link from \"next/link\";\nimport { useRouter } from \"next/navigation\";\n\nconst CheckoutPage = () => {\n  const router = useRouter();\n\n  return (\n    <header\n      className=\"flex z-10 bg-white justify-between items-center px-6 border-b border-gray-200 fixed top-0 right-0 left-0 shadow-sm\"\n      style={{ height: \"var(--navHeight)\" }}\n    >\n      {/* Logo */}\n      <div>\n        <Link href=\"/\" className=\"font-bold text-xl text-gray-800\">\n          LOGO\n        </Link>\n      </div>\n\n      {/* Nút Hủy */}\n      <button onClick={() => router.back()} className=\"hover:underline\">\n        Huỷ\n      </button>\n    </header>\n  );\n};\n\nexport default CheckoutPage;\n"],"names":[],"mappings":";;;;;AAGA;AACA;AAJA;;;;AAMA,MAAM,eAAe;IACnB,MAAM,SAAS,IAAA,0LAAS;IAExB,qBACE,yRAAC;QACC,WAAU;QACV,OAAO;YAAE,QAAQ;QAAmB;;0BAGpC,yRAAC;0BACC,cAAA,yRAAC,kNAAI;oBAAC,MAAK;oBAAI,WAAU;8BAAkC;;;;;;;;;;;0BAM7D,yRAAC;gBAAO,SAAS,IAAM,OAAO,IAAI;gBAAI,WAAU;0BAAkB;;;;;;;;;;;;AAKxE;uCAEe","debugId":null}}]
+}

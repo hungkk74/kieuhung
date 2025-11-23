@@ -1,0 +1,30 @@
+{
+  "pages": {
+    "/(dashboard)/course/[course_name]/[lecture_id]/[status]/[sublesson_id]/page": [
+      "static/chunks/73d67_next_dist_3169a853._.js",
+      "static/chunks/Documents_CourseDemy_front-end_src_app_favicon_ico_mjs_691614a3._.js",
+      "static/chunks/Documents_CourseDemy_front-end_src_app_globals_c279bd24.css",
+      "static/chunks/73d67_2368ee60._.js",
+      "static/chunks/Documents_CourseDemy_front-end_src_b5495394._.js",
+      "static/chunks/Documents_CourseDemy_front-end_src_app_layout_tsx_a0ec5de9._.js",
+      "static/chunks/73d67_next_dist_client_components_builtin_global-error_e983ca49.js",
+      "static/chunks/Documents_CourseDemy_front-end_src_07d113dc._.js",
+      "static/chunks/73d67_b7186012._.js",
+      "static/chunks/Documents_CourseDemy_front-end_src_app_(dashboard)_layout_tsx_e983ca49._.js",
+      "static/chunks/4cec1_course_[course_name]_[lecture_id]_[status]_[sublesson_id]_layout_tsx_672ae175._.js",
+      "static/chunks/4cec1_course_[course_name]_[lecture_id]_[status]_[sublesson_id]_layout_tsx_c3409b10._.js",
+      "static/chunks/Documents_CourseDemy_front-end_src_afe908b2._.js",
+      "static/chunks/73d67_e62c4485._.js",
+      "static/chunks/4cec1_course_[course_name]_[lecture_id]_[status]_[sublesson_id]_page_tsx_05b977bf._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_f1290d53._.js",
+      "static/chunks/73d67_next_dist_compiled_react-dom_3dc00d44._.js",
+      "static/chunks/73d67_next_dist_compiled_next-devtools_index_9457a9f7.js",
+      "static/chunks/73d67_next_dist_compiled_7eb97655._.js",
+      "static/chunks/73d67_next_dist_client_4fde4ec0._.js",
+      "static/chunks/73d67_next_dist_daedd825._.js",
+      "static/chunks/73d67_@swc_helpers_cjs_edf3264c._.js",
+      "static/chunks/Documents_CourseDemy_front-end_a0ff3932._.js",
+      "static/chunks/turbopack-Documents_CourseDemy_front-end_1324bb12._.js"
+    ]
+  }
+}

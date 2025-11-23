@@ -1,0 +1,10 @@
+{
+  "/(auth)/login/page": "app/(auth)/login/page.js",
+  "/(dashboard)/cart/page": "app/(dashboard)/cart/page.js",
+  "/(public)/course-detail/[course_name_slug]/page": "app/(public)/course-detail/[course_name_slug]/page.js",
+  "/(public)/courses/search/page": "app/(public)/courses/search/page.js",
+  "/(public)/home/page": "app/(public)/home/page.js",
+  "/(public)/page": "app/(public)/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///Users/hoangvietanh/Documents/CourseDemy/front-end/src/app/%28public%29/courses/%5Bcourse_name%5D/page.tsx"],"sourcesContent":["\"use client\";\n\nconst CourseDetailPage = () => {\n  return (\n    <div>\n      <div className=\"bg-[black] text-[#fff] h-[300px] w-full\"></div>\n    </div>\n  );\n};\n\nexport default CourseDetailPage;\n"],"names":[],"mappings":";;;;;AAAA;;AAEA,MAAM,mBAAmB;IACvB,qBACE,yRAAC;kBACC,cAAA,yRAAC;YAAI,WAAU;;;;;;;;;;;AAGrB;uCAEe","debugId":null}}]
+}
